@@ -31,5 +31,14 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: hsl(274, 96%, 50%);
+  background-color: 
+}
+.footer { 
+  position sticky;
+  left : 0%;
+  bottom: 0px;
+  width: 100%;
+ background-color :aqua; 
+ color :black;
+ text-align: center; 
 }
