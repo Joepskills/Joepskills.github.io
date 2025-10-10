@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="opmaak.css">
+<title>Compressie - basis</title>
+</head>
+<body>
+<h1>Compressie</h1>
+<p>Compressie betekent dat je bestanden kleiner maakt zodat ze minder ruimte innemen op je computer of telefoon.</p>                       <!-- dit is de uitleg over compressie-->
+<p>Door compressie kun je sneller iets downloaden of versturen, zoals een foto, liedje of filmpje.</p>
+<p>Er zijn twee soorten compressie:</p>
+<p>Lossless compressie: hierbij blijft alle informatie behouden. Als je het bestand weer uitpakt, ziet het er precies hetzelfde uit. Dit wordt vaak gebruikt bij tekstbestanden of programma’s, bijvoorbeeld in een ZIP-bestand.</p>
+<P>Lossy compressie: hierbij gaat een klein beetje informatie verloren, zodat het bestand nog kleiner wordt. Dat merk je meestal niet. Dit wordt gebruikt bij plaatjes, muziek en filmpjes, zoals bij JPEG en MP3.</P>
+<P>Een computer zoekt bij compressie naar stukjes die op elkaar lijken of vaak voorkomen, en vervangt die door kortere stukjes code.</P>
+<p>Voorbeeld: de tekst "aaaaabbbcc" kan worden opgeslagen als "5a3b2c". Dat betekent hetzelfde, maar het kost minder ruimte.</p>
+</body>
+</html>
