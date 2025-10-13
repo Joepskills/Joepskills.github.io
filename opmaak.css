@@ -42,3 +42,15 @@ ul li a:hover {
  color :white;
  text-align: center; 
 }
+
+#rechter- onder- foto { 
+  position:abslolute; 
+  bottom: 20px;
+  right: 20px 
+  width 225pc;
+  border-radius: 8px; 
+  box-shadow: 0 0 8px white ( 0,0,0,0.3);
+  z-index: 1000;
+  background-color: white
+  padding: 5px;
+}
