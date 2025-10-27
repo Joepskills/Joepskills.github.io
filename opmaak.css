@@ -31,7 +31,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: 
+  background-color: blue;
 }
 .footer { 
   position sticky;
