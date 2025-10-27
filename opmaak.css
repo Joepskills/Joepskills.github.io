@@ -1,56 +1,60 @@
 body {
-    background-color: rgb(77, 150, 234); } 
+    background-color: rgb(77, 150, 234);       
+}
 
-h1 {color:rgb(99, 226, 255);
-margin-left: 20px;
+h1 {
+    color: rgb(99, 226, 255);
+    margin-left: 20px;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;}
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
-  ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #3c6189;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3c6189;
 }
 
 ul li {
-  float: left;
+    float: left;
 }
 
 ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: blue;
-}
-.footer { 
-  position sticky;
-  left : 0%;
-  bottom: 0px;
-  width: 100%;
- background-color :black; 
- color :white;
- text-align: center; 
+    background-color: blue;
 }
 
-#rechter- onder- foto { 
-  position:abslolute; 
-  bottom: 20px;
-  right: 20px 
-  width 225pc;
-  border-radius: 8px; 
-  box-shadow: 0 0 8px white ( 0,0,0,0.3);
-  z-index: 1000;
-  background-color: white
-  padding: 5px;
+.footer { 
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black; 
+    color: white;
+    text-align: center; 
+}
+
+#rechter-onder-foto { 
+    position: absolute; 
+    bottom: 20px;           
+    right: 20px; 
+    width: 225px;
+    border-radius: 8px; 
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    z-index: 1000;
+    background-color: white;
+    padding: 5px;
 }
